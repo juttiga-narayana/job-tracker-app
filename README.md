@@ -112,6 +112,26 @@ https://jobtracker-service.netlify.app/
 
 ---
 
+## Screenshots
+
+### Login Page
+
+![Login](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Add Job Page
+
+![Add Job](screenshots/add-job.png)
+
+### Profile Page
+
+![Profile](screenshots/profile.png)
+
+---
+
 ## Future Improvements
 
 - Email Notifications
