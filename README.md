@@ -114,6 +114,10 @@ https://jobtracker-service.netlify.app/
 
 ## Screenshots
 
+### Register Page
+
+![Register](screenshots/register.png)
+
 ### Login Page
 
 ![Login](screenshots/login.png)
